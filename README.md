@@ -24,7 +24,7 @@
 ### `git rebase`
 > faz atualização na base dos commits.
 ##
-### `git --amend -m "(mensagem desejada)"`
+### `git --amend -m "(menssagem desejada)"`
 > Faz atualização de comentários escritos errados
 ##
 ### `git restored --staged (nome do arquivo)`
